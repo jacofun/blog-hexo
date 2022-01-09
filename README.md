@@ -3,17 +3,17 @@
 
 该仓库用于保存渲染前的源码
 
-安装使用：
+安装：
 ``` bash
 $ cd blog-hexo
-$ npm hexo-cli
+$ npm hexo-cli -g
 $ npm install
 ```
-本地测试
+本地测试：
 ``` bash
 $ hexo s
 ```
-或远端部署
+远端部署：
 ``` bash
 $ hexo d
 ```
