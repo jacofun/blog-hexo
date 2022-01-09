@@ -5,9 +5,9 @@ title: 编译安装Nginx
 
 安装环境为Debian 10
 
-##0x1 更新源&&安装依赖
+## 更新源&&安装依赖
 
-##0x2 安装Nginx
+### 安装Nginx
 ### 添加nginx用户
 ### 下载Nginx源码
 ### 配置&&编译
