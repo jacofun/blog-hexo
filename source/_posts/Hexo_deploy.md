@@ -25,7 +25,7 @@ git的作用是版本控制，钩子的作用是侦测到仓库有提交时自�
 
 ## 服务器配置（Debian 11）
 
-###1.安装git
+### 1.安装git
 
 	$ sudo apt-get update && install git -y
 
@@ -159,13 +159,7 @@ ip和port是服务器的公网ip和ssh端口
 
 	$ git add -A
 	$ git commit -m "Update a new post" #引号内容可自拟
-
-(可选)将Hexo源码push至Github
-
-	$ git push origin remote 
-
-
-
+	$ git push origin remote #将Hexo源码push至Github
 	$ hexo clean
 	$ hexo g
 	$ hexo d
