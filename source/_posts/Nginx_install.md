@@ -2,6 +2,8 @@
 title: 编译安装Nginx
 ---
 系统为Debian10，直接放步骤：
+<!--more-->
+
 ### 1.更新源及安装依赖
 	$ apt-get update
 

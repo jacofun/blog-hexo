@@ -7,6 +7,8 @@ title: 简单学个单词（snub）
 >——*Covid-19 Feuls Best-Ever Commercial Real-Estate Sales*, Jan. 25, 2022, *WSJ*.
 
 用ios自带词典简单define后发现，snub做动词具有两个意思：
+<!--more-->
+
 
 * 1.rebuff, ignore, or spurn disdainfully.
  
