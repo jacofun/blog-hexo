@@ -16,9 +16,9 @@ title: 简单学个单词（snub）
 
 * 2.check the movement of (a horse or boat), espeacially by a rope wound around a post.
 
-第二种释义机翻之后使我百思不得其解。首先这里的check并非examine等意思，而是halt, stop, bring to a standstill的意思（考研中常考的check的僻义）。
-其次，语感强的同学会发现这里的wound做的是rope的谓语，而非injury伤口之意（极容易翻译为伤口）。因此这里的wound是wind的过去分词，wind around是围绕、环绕的意思。上述snub的第二个释义是说：
+第二种释义机翻之后使我百思不得其解。首先这里的check并非examine等意思，而是halt, stop, bring to a standstill的意思（某些考试中常考的僻义）。
+其次，wound这里做的是谓语，而非injury伤口之意（看错了吧哈哈哈）。这里的wound是wind的过去分词，wind around是围绕、环绕的意思。上述snub的第二个释义是说：
 
 *尤指用绳子将马或船系在柱子上来牵制它们的活动。*
 
-snub这个单词的意思大抵能够上下文猜出来，六级或者考研词汇里可能也会出现这个词的意思。不过，令我着迷的是它的第二个意思，释义中既考察了语法（过去分词表被动）、还考察了check的僻义，颇有考研英语一的考察风格呢！
+snub这个单词的意思大抵能够上下文猜出来，释义中既有语法（过去分词表被动）还有僻义。
