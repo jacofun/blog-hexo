@@ -1,5 +1,6 @@
 ---
 title: 简单学个单词（snub）
+date: 2023-03-20 21:04:00
 ---
 
 >Investors last year **snubbed** properties that had been favorites for years but started to look less reliable during Covid-19.
