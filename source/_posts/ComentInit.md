@@ -2,7 +2,6 @@
 title: 使用Vercel部署Discuss+MongoDB并配合CloudFlare中转实现Hexo评论功能
 date: 2023-12-31 02:30:01
 tags: Programming
-comment: 'discuss'
 ---
 现在是凌晨2：30，博客的评论功能终于调试完成，中间踩了不少的坑，走了不少弯路。
 <!--more-->
